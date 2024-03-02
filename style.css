@@ -1,0 +1,36 @@
+.corpo {
+    margin: 0px;
+    padding: 0px;
+}
+
+.A {
+    background-color: #f1c573;
+    width: 500px;
+    height: 500px;
+}
+
+.B {
+    background-color: #a3eca3;
+    width: 50%;
+    height: 50%;
+}
+
+.paragrafo {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.D {
+    background-color: rgb(168, 217, 234);
+    width: 50%;
+    height: 50vh;
+}
+
+.E {
+    background-color: rgb(255, 0, 0);
+    width: 75vw;
+    height: 50%;
+}
